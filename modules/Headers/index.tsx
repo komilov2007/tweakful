@@ -12,7 +12,7 @@ const Headers = async () => {
           <Logo />
         </Link>
         <nav className="flex gap-[31px]">
-          {data.map((item) => (
+          {data?.map((item) => (
             <Link key={item.id} href={item.path}>
               {item.text}
             </Link>

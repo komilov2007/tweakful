@@ -6,7 +6,6 @@ import Success from './Success/Success';
 import Process from './Process/Process';
 import Action from './Action/Action';
 import Footer from './Footer/Footer';
-
 export {
   Headers,
   HeadlineSection,

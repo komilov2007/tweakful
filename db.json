@@ -127,5 +127,49 @@
       "leftText": "B2B website and engagement design solution that transform marketing and sales performance like never before.",
       "rightText": "© 2015-2020 Openthrive. All right reserved."
     }
+  },
+  "statsSection": {
+    "heroTitle": "We Have Created A Big Library\nOf Illustrations With Custom\nStyle And Action Types.",
+    "quote": "“E-commerce Illustration Pack collects different ways to do quick shopping, pay in\na second, and get all those stuff you need. There are smart delivery and polite\nservice in the scenes. Each of them is realized in cold and warm colors with”",
+    "personName": "Jesica Kumari",
+    "personRole": "CEO Of Acme Limited",
+    "buttonText": "Explore More About This",
+    "imageBadge": "1440 × 800",
+    "statsTitle": "Some count that matters",
+    "statsSubtitle": "Our achievement in the journey depicted in numbers",
+    "stats": [
+      { "value": "5", "label": "Service Geographics" },
+      { "value": "30", "label": "Fortune 500 Clients" },
+      { "value": "300", "label": "Dedicated Members" },
+      { "value": "8", "label": "Years of Journey" }
+    ],
+    "avatar": "/features.png"
+  },
+  "tutorialSection": {
+    "title": "Headline of Modern and\nDigital Lending Platform\nIn a Few Seconds for You",
+    "desc": "Nowadays, it isn't uncommon to see lenders rapidly adopting a digital lending strategy to streamline the lending process. Gorgeous, high-quality design system for mobile, tablet & a few reasons digital",
+    "img": "/pricing.png",
+    "badgeText": "Video store with 10\nsamples on 20 min",
+    "btnText": "Play Tutorial"
+  },
+  "contactSection": {
+    "title": "Contact Us",
+    "desc": "If you have any questions about the subscription or are not sure which plan is right for you, contact our team and let’s schedule a call.",
+    "callBtn": "Call us",
+    "callText": "(809) 984-9492",
+    "emailBtn": "Email us",
+    "emailText": "hello@openhrive.com",
+    "formTitle": "Let's Talk 👋",
+    "formDesc": "If you have any question or issue’s to use our product. Fill the form below. We’ll help you.",
+    "nameLabel": "Your name*",
+    "namePlaceholder": "Enter your name",
+    "emailLabel": "Your email*",
+    "emailPlaceholder": "Enter your email",
+    "topicLabel": "Choose topic*",
+    "topicPlaceholder": "Select one topic",
+    "messageLabel": "Message*",
+    "messagePlaceholder": "Write your message",
+    "submitText": "Contact Us",
+    "logos": ["google", "amazon", "intel", "atlassian"]
   }
 }
